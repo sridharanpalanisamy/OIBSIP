@@ -38,11 +38,16 @@ The landing page for the **Smart Ceramics Products Site** is deployed using **Gi
 
 The project structure is organized as follows:
 
- OIBSIP/
+OIBSIP/
+
 ├── task-1 Landing Page/
+
 │   ├── index.html    # Main HTML file for the landing page
+
 │   └── style.css     # CSS file for styling the page
+
 └── README.md         # This readme file
+
 
 
 
