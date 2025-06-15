@@ -1,4 +1,6 @@
-# Task 1: Smart Ceramics Products Landing Page
+# Task 1,2,3: 
+
+Smart Ceramics Products Landing Page
 
 ## Project Overview
 
