@@ -36,6 +36,7 @@ The landing page for the **Smart Ceramics Products Site** is deployed using **Gi
 
 
 The Portfolio page is deployed using **Github Pages** and can be access via the following link:
+
 [Task-2 Portfolio Webpage](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
 
 ---
