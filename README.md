@@ -39,21 +39,14 @@ The Portfolio page is deployed using **Github Pages** and can be access via the 
 
 [Task-2 Portfolio Webpage - Task 2](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
 
+
+The emperature converter page as been deployed using **Github Pages** and can br access via the following Link:
+
+[Task-3 Temperature converter - Task 3](https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/)
+
+
 ---
 
-## Project Structure
-
-The project structure is organized as follows:
-
-OIBSIP/
-
-├── task-1 Landing Page/
-
-│   ├── index.html    # Main HTML file for the landing page
-
-│   └── style.css     # CSS file for styling the page
-
-└── README.md         # This readme file
 
 
 
