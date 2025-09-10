@@ -32,17 +32,17 @@ The goal of this task was to create a landing page that could showcase **Smart C
 
 The landing page for the **Smart Ceramics Products Site** is deployed using **GitHub Pages** and can be accessed via the following link:
 
-[Smart Ceramics Products Site - Task 1](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
+[Task 1 Smart Ceramics Products Site ](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
 
 
 The Portfolio page is deployed using **Github Pages** and can be access via the following link:
 
-[Task-2 Portfolio Webpage - Task 2](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
+[Task-2 Portfolio Webpage ](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
 
 
 The emperature converter page as been deployed using **Github Pages** and can br access via the following Link:
 
-[Task-3 Temperature converter - Task 3](https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/)
+[Task-3 Temperature converter ](https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/)
 
 
 ----
