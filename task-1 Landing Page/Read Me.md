@@ -17,7 +17,7 @@ A visually engaging and modern product landing page for a ceramic product brand,
 
 ## 🖼️ Preview
 
-![Smart Ceramic Preview]([images/screenshot.png](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/))
+![Smart Ceramic Preview](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/))
 
 <img width="1877" height="4533" alt="Smart Ceramic - Product Landing Page" src="https://github.com/user-attachments/assets/641cd5cb-b176-4a2c-ae74-bb0ca5b39d6e" />
 
@@ -26,19 +26,26 @@ A visually engaging and modern product landing page for a ceramic product brand,
 
 ### 📁 Clone the repository:
 git clone https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/
+
 cd smart-ceramic-landing-page
 
 📂 Project Structure
 
 smart-ceramic-landing-page/
+
 │
 ├── index.html              # Main HTML file
+
 ├── style.css               # Custom CSS
+
 ├── images/                 # Product & icon images
+
 ├── video/                  # Hero section background video
+
 └── README.md               # This file
 
 🔧 Technologies Used
+
      -> HTML5
 
      -> CSS3
@@ -51,10 +58,11 @@ SVG & MP4 Media Support
 
 ✍️ Author
 
-Sridhar P
 📧 Email: sridharanpalanisamy96@gmail.com
-💼 Portfolio: (Add if available)
-🔗 LinkedIn / GitHub: Your GitHub Profile
+
+💼 Portfolio: [Portfolio Link](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
+
+🔗 LinkedIn:[LinkedIn Profile Link](https://www.linkedin.com/in/sridharan-palanisamy-298626315/)
 
 📌 License
 This project is licensed under the MIT License. You’re free to use, modify, and distribute it with attribution.
