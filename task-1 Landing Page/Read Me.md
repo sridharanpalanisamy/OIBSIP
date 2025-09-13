@@ -17,7 +17,7 @@ A visually engaging and modern product landing page for a ceramic product brand,
 
 ## 🖼️ Preview
 
-[Smart Ceramic Preview](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/))
+[Smart Ceramic Preview](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
 
 <img width="1877" height="4533" alt="Smart Ceramic - Product Landing Page" src="https://github.com/user-attachments/assets/641cd5cb-b176-4a2c-ae74-bb0ca5b39d6e" />
 
