@@ -18,6 +18,7 @@ A visually engaging and modern product landing page for a ceramic product brand,
 ## 🖼️ Preview
 
 [Smart Ceramic Preview](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
+## Screenshots
 
 <img width="1877" height="4533" alt="Smart Ceramic - Product Landing Page" src="https://github.com/user-attachments/assets/641cd5cb-b176-4a2c-ae74-bb0ca5b39d6e" />
 
@@ -29,7 +30,7 @@ git clone https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/
 
 cd smart-ceramic-landing-page
 
-📂 Project Structure
+## 📂 Project Structure
 
 smart-ceramic-landing-page/
 
@@ -44,7 +45,7 @@ smart-ceramic-landing-page/
 
 └── README.md               # This file
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 
      -> HTML5
 
@@ -52,11 +53,7 @@ smart-ceramic-landing-page/
 
      -> Font Awesome (CDN)
 
-Responsive Design
-
-SVG & MP4 Media Support
-
-✍️ Author
+## ✍️ Author
 
 📧 Email: sridharanpalanisamy96@gmail.com
 
@@ -64,10 +61,10 @@ SVG & MP4 Media Support
 
 🔗 LinkedIn:[LinkedIn Profile Link](https://www.linkedin.com/in/sridharan-palanisamy-298626315/)
 
-📌 License
+## 📌 License
 This project is licensed under the MIT License. You’re free to use, modify, and distribute it with attribution.
 
-🙌 Support
+## 🙌 Support
 If you like this project, feel free to:
 
 ⭐ Star this repository
@@ -76,7 +73,8 @@ If you like this project, feel free to:
 
 💬 Suggest enhancements via issues or pull requests
 
-📣 Acknowledgements
+## 📣 Acknowledgements
+
 Product Icons from SVGRepo
 
 FontAwesome CDN for icons
