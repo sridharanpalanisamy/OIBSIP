@@ -25,7 +25,7 @@ A visually engaging and modern product landing page for a ceramic product brand,
 ---
 
 ### 📁 Clone the repository:
-git clone https://github.com/your-username/smart-ceramic-landing-page.git
+git clone https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/
 cd smart-ceramic-landing-page
 
 📂 Project Structure
@@ -37,12 +37,13 @@ smart-ceramic-landing-page/
 ├── images/                 # Product & icon images
 ├── video/                  # Hero section background video
 └── README.md               # This file
+
 🔧 Technologies Used
-HTML5
+     -> HTML5
 
-CSS3
+     -> CSS3
 
-Font Awesome (CDN)
+     -> Font Awesome (CDN)
 
 Responsive Design
 
