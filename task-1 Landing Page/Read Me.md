@@ -30,6 +30,7 @@ git clone https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/
 
 cd smart-ceramic-landing-page
 
+---
 ## 📂 Project Structure
 
 smart-ceramic-landing-page/
@@ -45,6 +46,8 @@ smart-ceramic-landing-page/
 
 └── README.md               # This file
 
+---
+
 ## 🔧 Technologies Used
 
      -> HTML5
@@ -52,6 +55,7 @@ smart-ceramic-landing-page/
      -> CSS3
 
      -> Font Awesome (CDN)
+---
 
 ## ✍️ Author
 
@@ -61,8 +65,12 @@ smart-ceramic-landing-page/
 
 🔗 LinkedIn:[LinkedIn Profile Link](https://www.linkedin.com/in/sridharan-palanisamy-298626315/)
 
+---
+
 ## 📌 License
 This project is licensed under the MIT License. You’re free to use, modify, and distribute it with attribution.
+
+---
 
 ## 🙌 Support
 If you like this project, feel free to:
@@ -73,6 +81,8 @@ If you like this project, feel free to:
 
 💬 Suggest enhancements via issues or pull requests
 
+---
+
 ## 📣 Acknowledgements
 
 Product Icons from SVGRepo
@@ -80,3 +90,5 @@ Product Icons from SVGRepo
 FontAwesome CDN for icons
 
 Hero Video from royalty-free sources
+
+---
