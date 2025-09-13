@@ -24,16 +24,12 @@ A visually engaging and modern product landing page for a ceramic product brand,
 
 ---
 
-## 🚀 Getting Started
-
 ### 📁 Clone the repository:
-
-```bash
 git clone https://github.com/your-username/smart-ceramic-landing-page.git
 cd smart-ceramic-landing-page
+
 📂 Project Structure
-bash
-Copy code
+
 smart-ceramic-landing-page/
 │
 ├── index.html              # Main HTML file
@@ -53,6 +49,7 @@ Responsive Design
 SVG & MP4 Media Support
 
 ✍️ Author
+
 Sridhar P
 📧 Email: sridharanpalanisamy96@gmail.com
 💼 Portfolio: (Add if available)
