@@ -10,6 +10,7 @@ This repository contains the **Task 1** for the OIBSIP (Oasis Infobyte Summer In
 **3. Temperature Converter**
 
 ### Technology Used:
+
 - **HTML**: To structure the content on the webpage.
 - **CSS**: To style the page and make it visually appealing.
 - **JavaScript**: To add interactivity and dynamic behavior to the webpage, such as handling user input, form validation, animations, sliders, or asynchronous operations.
@@ -20,6 +21,7 @@ The goal of this task was to create a landing page that could showcase **Smart C
 ---
 
 ## Features:
+
 - A **responsive layout** that adjusts the content to different screen sizes.
 - A **clean and modern design** using simple CSS styling techniques.
 - **Sections** for:
