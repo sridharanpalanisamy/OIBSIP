@@ -6,7 +6,9 @@ This repository contains the **Task 1** for the OIBSIP (Oasis Infobyte Summer In
 
 ### Project Title:
 **1. Smart Ceramics Products Site**
+
 **2. Portfolio Webpage**
+
 **3. Temperature Converter**
 
 ### Technology Used:
