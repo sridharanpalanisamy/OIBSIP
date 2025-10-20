@@ -38,7 +38,7 @@ The goal of this task was to create a landing page that could showcase **Smart C
 
 The landing page for the **Smart Ceramics Products Site** is deployed using **GitHub Pages** and can be accessed via the following link:
 
-[Task 1 Smart Ceramics Products Site ](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
+[Task-1 Smart Ceramics Products Site ](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
 
 The Portfolio page is deployed using **Github Pages** and can be access via the following link:
 
