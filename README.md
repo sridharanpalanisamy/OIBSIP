@@ -40,16 +40,13 @@ The landing page for the **Smart Ceramics Products Site** is deployed using **Gi
 
 [Task 1 Smart Ceramics Products Site ](https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/)
 
-
 The Portfolio page is deployed using **Github Pages** and can be access via the following link:
 
 [Task-2 Portfolio Webpage ](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
 
-
 The Temperature converter page as been deployed using **Github Pages** and can br access via the following Link:
 
 [Task-3 Temperature converter ](https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/)
-
 
 ----
 
