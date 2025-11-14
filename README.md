@@ -18,6 +18,7 @@ This repository contains the **Task 1** for the OIBSIP (Oasis Infobyte Summer In
 - **JavaScript**: To add interactivity and dynamic behavior to the webpage, such as handling user input, form validation, animations, sliders, or asynchronous operations.
 
 ### Objective:
+
 The goal of this task was to create a landing page that could showcase **Smart Ceramics Products**, using basic web technologies (HTML and CSS). The page features a clean layout with relevant product images, descriptions, and contact information, providing a strong visual presentation for the brand.
 
 ---
