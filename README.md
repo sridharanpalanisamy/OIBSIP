@@ -4,9 +4,9 @@
 This repository contains the **Task 1** for the OIBSIP (Oasis Infobyte Summer Internship Program). The task involves creating a **Landing Page** for a fictional ceramics products website. The page is designed using **HTML** and **CSS**, focusing on creating a simple, clean, and responsive layout.
 
 ### Project Titles:
+
 **1. Smart Ceramics Products Site**
 **2. Portfolio Webpage**
-
 **3. Temperature Converter**
 
 ### Technology Used:
