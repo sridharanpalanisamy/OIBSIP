@@ -32,6 +32,7 @@ The goal of this task was to create a landing page that could showcase **Smart C
 - A **responsive layout** that adjusts the content to different screen sizes.
 - A **clean and modern design** using simple CSS styling techniques.
 - **Sections** for:
+  
   - Product descriptions
   - Features of the products
   - Contact information
