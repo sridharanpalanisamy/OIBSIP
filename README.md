@@ -18,8 +18,9 @@ This repository contains the
 ### Technology Used:
 
 - **HTML**: To structure the content on the webpage.
-- 
+
 - **CSS**: To style the page and make it visually appealing.
+
 - **JavaScript**: To add interactivity and dynamic behavior to the webpage, such as handling user input, form validation, animations, sliders, or asynchronous operations.
 
 ### Objective:
