@@ -33,7 +33,9 @@ The page features a clean layout with relevant product images, descriptions, and
 ## Features:
 
 - A **responsive layout** that adjusts the content to different screen sizes.
+  
 - A **clean and modern design** using simple CSS styling techniques.
+  
 - **Sections** for:
   
   - Product descriptions
