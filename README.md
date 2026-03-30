@@ -26,6 +26,7 @@ This repository contains the
 ### Objective:
 
 The goal of this task was to create a landing page that could showcase **Smart Ceramics Products**, using basic web technologies (HTML and CSS).
+
 The page features a clean layout with relevant product images, descriptions, and contact information, providing a strong visual presentation for the brand.
 
 ---
