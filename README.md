@@ -40,7 +40,9 @@ The page features a clean layout with relevant product images, descriptions, and
 - **Sections** for:
   
   - Product descriptions
+  
   - Features of the products
+  
   - Contact information
   
 ---
