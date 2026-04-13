@@ -8,7 +8,6 @@ This repository contains the
 
 The page is designed using **HTML** and **CSS**, focusing on creating a simple, clean, and responsive layout.
 
-
 ### Project Titles:
 
 **1. Smart Ceramics Products Site**
