@@ -60,7 +60,7 @@ The Portfolio page is deployed using **Github Pages** and can be access via the 
 
 [Task-2 Portfolio Webpage ](https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/)
 
-The Temperature converter page as been deployed using **Github Pages** and can br access via the following Link:
+The Temperature converter page as been deployed using **Github Pages** and can be access via the following Link:
 
 [Task-3 Temperature converter ](https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/)
 
