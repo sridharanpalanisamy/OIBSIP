@@ -16,7 +16,6 @@ The page is designed using **HTML** and **CSS**, focusing on creating a simple, 
 
 **3. Temperature Converter**
 
-
 ### Technology Used:
 
 - **HTML**: To structure the content on the webpage.
