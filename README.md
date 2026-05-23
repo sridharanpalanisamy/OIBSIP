@@ -39,6 +39,7 @@ The page features a clean layout with relevant product images, descriptions, and
 - A **clean and modern design** using simple CSS styling techniques.
   
 - **Sections**
+  
   for:
   
   - Product descriptions
