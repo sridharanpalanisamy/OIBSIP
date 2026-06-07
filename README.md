@@ -4,7 +4,9 @@
 
 This repository contains the
 
-**Task 1** for the OIBSIP (Oasis Infobyte Summer Internship Program). 
+**Task 1** 
+
+for the OIBSIP (Oasis Infobyte Summer Internship Program). 
 
 The task involves creating a **Landing Page** for a fictional ceramics products website. 
 
